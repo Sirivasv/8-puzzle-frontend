@@ -13,7 +13,7 @@
     "dayjs": "^1.8.16",
     "material-design-icons": "^3.0.1",
     "register-service-worker": "^1.6.2",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-router": "^3.0.3",
     "vuetify": "^2.0.0",
     "vuex": "^3.0.1"
